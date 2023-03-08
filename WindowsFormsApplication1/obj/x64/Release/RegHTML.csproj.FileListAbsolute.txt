@@ -1,0 +1,2 @@
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x64\Release\RegHTML.exe.config
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x64\Release\RegHTML.csprojResolveAssemblyReference.cache

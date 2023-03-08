@@ -1,0 +1,14 @@
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x86\Release\RegHTML.exe.config
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.csprojResolveAssemblyReference.cache
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.RegSelect.resources
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.MyAutoCloseDialog.resources
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.Properties.Resources.resources
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.setHTML.resources
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.csproj.GenerateResource.Cache
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x86\Release\RegHTML.exe
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x86\Release\RegHTML.pdb
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x86\Release\CSkin.dll
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\bin\x86\Release\CSkin.xml
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.exe
+C:\Users\AC\Desktop\GIT\ProjectCodes\Code\Projects\VCProject\C#Project\RegHTML\WindowsFormsApplication1\obj\x86\Release\RegHTML.pdb
